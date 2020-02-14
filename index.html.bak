@@ -3,16 +3,15 @@
 <head>
   <meta charset="utf-8">
   
-  <title>博客名 | zxf89757的博客</title>
+  <title>zxf89757的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="article">
-<meta property="og:title" content="博客名">
-<meta property="og:url" content="https://zxf89757.github.io/2018/02/23/博客名/index.html">
+  <meta property="og:type" content="website">
+<meta property="og:title" content="zxf89757的博客">
+<meta property="og:url" content="https://zxf89757.github.io/index.html">
 <meta property="og:site_name" content="zxf89757的博客">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2018-02-23T02:33:53.510Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="博客名">
+<meta name="twitter:title" content="zxf89757的博客">
   
     <link rel="alternative" href="/atom.xml" title="zxf89757的博客" type="application/atom+xml">
   
@@ -23,6 +22,9 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  
+    
+    
   
   
       <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
@@ -119,11 +121,13 @@
         </header>                
     </div>
 </nav>
-      <div class="body-wrap"><article id="post-博客名" class="article article-type-post" itemscope itemprop="blogPost">
+      <div class="body-wrap">
+  
+    <article id="post-博客名" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a  href="/2018/02/23/博客名/" class="article-date">
-      <time datetime="2018-02-23T02:33:53.000Z" itemprop="datePublished">2018-02-23</time>
+      <a  href="/2020/02/14/博客名/" class="article-date">
+      <time datetime="2020-02-14T02:33:53.000Z" itemprop="datePublished">2020-02-14</time>
 </a>
 
     </div>
@@ -136,20 +140,13 @@
       <header class="article-header">
         
   
-    <h1 class="article-title" itemprop="name">
-      博客名
+    <h1 itemprop="name">
+      <a  class="article-title" href="/2018/02/23/博客名/">博客名</a>
     </h1>
   
 
 
       </header>
-      
-      <div class="article-info article-info-post">
-        
-
-        
-        <div class="clearfix"></div>
-      </div>
       
     
 
@@ -161,116 +158,160 @@
     </div>
 
     
-  </div>
-  
-    
-    <div class="copyright">
-        <p><span>本文标题:</span><a  href="/2018/02/23/博客名/">博客名</a></p>
-        <p><span>文章作者:</span><a  href="/" title="访问 zxf89757 的个人博客">zxf89757</a></p>
-        <p><span>发布时间:</span>2018年02月23日 - 10时33分</p>
-        <p><span>最后更新:</span>2018年02月23日 - 10时33分</p>
-        <p>
-            <span>原始链接:</span><a class="post-url" href="/2018/02/23/博客名/" title="博客名">https://zxf89757.github.io/2018/02/23/博客名/</a>
-            <span class="copy-path" data-clipboard-text="原文: https://zxf89757.github.io/2018/02/23/博客名/　　作者: zxf89757" title=""></span>
-        </p>
+    <div class="article-info article-info-index">
+      
+
+      
+      
+      <div class="clearfix"></div>
     </div>
-
-
-
-<nav id="article-nav">
-  
-  
-    <a  href="/2013/12/02/my-first-blog - 副本/" id="article-nav-older" class="article-nav-link-wrap">
-      <div class="article-nav-title">postName</div>
-      <strong class="article-nav-caption">></strong>
-    </a>
-  
-</nav>
-
-
+    
+  </div>
   
 </article>
 
-    <div id="toc" class="toc-article" style="display:none;">
-    <strong class="toc-title">文章目录</strong>
-    
-</div>
-<style>
-    .left-col .switch-btn {
-        display: block;
-    }
-    .left-col .switch-area {
-        display: block;
-    }
-</style>
-<input type="button" id="tocButton" value="隐藏目录"  title="点击按钮隐藏或者显示文章目录">
-<script src="http://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script>
-<script>
-    var valueHide = "隐藏目录";
-    var valueShow = "显示目录";
-    if ($(".left-col").is(":hidden")) {
-        $("#tocButton").attr("value", valueShow);
-    }
-    $("#tocButton").click(function() {
-        if ($("#toc").is(":hidden")) {
-            $("#tocButton").attr("value", valueHide);
-            $("#toc").slideDown(320);
-            $(".switch-btn, .switch-area").fadeOut(300);
-        }
-        else {
-            $("#tocButton").attr("value", valueShow);
-            $("#toc").slideUp(350);
-            $(".switch-btn, .switch-area").fadeIn(500);
-        }
-    })
-    if ($(".toc").length < 1) {
-        $("#toc, #tocButton").hide();
-        $(".switch-btn, .switch-area").show();
-    }
-</script>
 
 
 
 
-    <div class="scroll" id="post-nav-button">
-        
-            <a  href="/" title="回到主页"><i class="fa fa-home"></i></a>
-        
-        <a title="文章列表"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
-        
-            <a  href="/2013/12/02/my-first-blog - 副本/" title="下一篇: postName">
-                <i class="fa fa-angle-right"></i>
-            </a>
-        
+
+
+  
+    <article id="post-my-first-blog - 副本" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a  href="/2013/12/02/my-first-blog - 副本/" class="article-date">
+      <time datetime="2013-12-02T07:30:16.000Z" itemprop="datePublished">2013-12-02</time>
+</a>
+
     </div>
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2018/02/23/博客名/">博客名</a></li><li class="post-list-item"><a class="post-list-link" href="/2013/12/02/my-first-blog - 副本/">postName</a></li><li class="post-list-item"><a class="post-list-link" href="/2013/12/02/my-first-blog/">postName</a></li></ul>
-    <script src="http://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script>
-    <script>
-        $(".post-list").addClass("toc-article");
-        // $(".post-list-item a").attr("target","_blank");
-        $("#post-nav-button > a:nth-child(2)").click(function() {
-            $(".fa-bars, .fa-times").toggle();
-            $(".post-list").toggle(300);
-            if ($(".toc").length > 0) {
-                $("#toc, #tocButton").toggle(200, function() {
-                    if ($(".switch-area").is(":visible")) {
-                        $("#toc, .switch-btn, .switch-area").toggle();
-                        $("#tocButton").attr("value", valueHide);
-                        }
-                    })
-            }
-            else {
-                $(".switch-btn, .switch-area").fadeToggle(300);
-            }
-        })
-    </script>
-
-
-
-
-    <script>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
         
-    </script>
+  
+    <h1 itemprop="name">
+      <a  class="article-title" href="/2013/12/02/my-first-blog - 副本/">postName</a>
+    </h1>
+  
+
+
+      </header>
+      
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              1. 全是静态文件，访问速度快1
+          
+      
+    </div>
+
+    
+    <div class="article-info article-info-index">
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/分类4/">分类4</a>
+    </div>
+
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag1/">tag1</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag22/">tag22</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag3/">tag3</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a   href="/2013/12/02/my-first-blog - 副本/#more">查看更多 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+  
+    <article id="post-my-first-blog" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a  href="/2013/12/02/my-first-blog/" class="article-date">
+      <time datetime="2013-12-02T07:30:16.000Z" itemprop="datePublished">2013-12-02</time>
+</a>
+
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a  class="article-title" href="/2013/12/02/my-first-blog/">postName</a>
+    </h1>
+  
+
+
+      </header>
+      
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+              1. 全是静态文件，访问速度快1
+          
+      
+    </div>
+
+    
+    <div class="article-info article-info-index">
+      
+    <div class="article-category tagcloud">
+    <a class="article-category-link" href="/categories/分类1/">分类1</a>
+    </div>
+
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag1/">tag1</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag2/">tag2</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/tag3/">tag3</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a   href="/2013/12/02/my-first-blog/#more">查看更多 >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+  
+  
 
 </div>
       <footer id="footer">
@@ -291,8 +332,8 @@
       var yiliaConfig = {
           fancybox: true,
           animate: false,
-          isHome: false,
-          isPost: true,
+          isHome: true,
+          isPost: false,
           isArchive: false,
           isTag: false,
           isCategory: false,
