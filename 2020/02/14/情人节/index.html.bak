@@ -42,7 +42,7 @@
 
 		<div id="code">
 				<span class="comments">/**</span><br />
-				<span class="space"/><span class="comments">* Fortunately, not simple, but just meet you.</span><br />
+				<span class="space"/><span class="comments">* fortunately, not simple, but just meet you.</span><br />
 				<span class="space"/><span class="comments">**/</span><br />
 				<span class="keyword"/>Distance = 101; <br />
 				<span class="space"/>Sheep.Run_toward_Spectre();<br />
